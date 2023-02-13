@@ -2,7 +2,7 @@
 
 <h1>Overview</h1>
 
-<p>This is a responsive email template built using HTML/CSS to confirm flight date changes for users. The email features a professional design and is easily readable on various devices, providing a clear and efficient way to communicate updated itinerary information. The template is flexible and can be easily customized to fit specific branding requirements.</p>
+<p>This is a responsive email template built using HTML/inline CSS to confirm flight date changes for users. The email features a professional design and is easily readable on various devices, providing a clear and efficient way to communicate updated itinerary information. The template is flexible and can be easily customized to fit specific branding requirements.</p>
 
 <h2>Technologies</h2>
 <ul>
