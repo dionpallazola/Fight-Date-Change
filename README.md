@@ -8,7 +8,7 @@
 <ul>
 <li>HTML</li>
 <li>CSS</li>
-<li>VsCode</li>
+<li>VS Code</li>
 <li>Dreamweaver</li>
 <li>Litmus</li>
 </ul>
