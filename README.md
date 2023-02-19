@@ -7,7 +7,7 @@
 <h2>Technologies</h2>
 <ul>
 <li>HTML</li>
-<li>CSS</li>
+<li>Inline CSS</li>
 <li>VS Code</li>
 <li>Dreamweaver</li>
 <li>Litmus</li>
